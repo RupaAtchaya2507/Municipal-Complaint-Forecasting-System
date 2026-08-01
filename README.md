@@ -1,4 +1,4 @@
-# Spatiotemporal Municipal Stress Index (MSI) Forecasting System
+# Spatiotemporal Municipal Complaint Forecasting System
 
 A GNN+LSTM deep learning system for predicting municipal infrastructure stress across city zones using spatiotemporal complaint data.
 
