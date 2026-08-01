@@ -4,7 +4,7 @@ A GNN+LSTM deep learning system for predicting municipal infrastructure stress a
 
 ## Architecture
 
-- **GCN** — Graph Convolutional Network for spatial zone relationships
+- **GNN** — Graph Convolutional Network for spatial zone relationships
 - **LSTM** — Long Short-Term Memory for temporal complaint patterns
 - **Multi-Task Head** — Jointly predicts MSI, complaint count, and unresolved ratio
 - **Dynamic Risk Engine** — EMA-based risk scoring (Low / Medium / High)
