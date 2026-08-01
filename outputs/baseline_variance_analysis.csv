@@ -1,0 +1,7 @@
+Metric,Value
+Total Test Variance,0.17787310069781373
+Baseline R2 Explained Variance,0.10032620239364443
+Residual Variance Proportion,0.8987836885208748
+Baseline Lag-1 Autocorrelation,-0.11280041333786835
+Baseline Lag-7 Autocorrelation,0.13570531094210986
+Baseline-to-Future Pearson Correlation,0.3181589572826453

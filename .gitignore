@@ -1,0 +1,78 @@
+# ──────────────────────────────────────────────
+# Python
+# ──────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ──────────────────────────────────────────────
+# Virtual environments
+# ──────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env
+ENV/
+
+# ──────────────────────────────────────────────
+# Archive / scratch (entire folder)
+# ──────────────────────────────────────────────
+archive/
+
+# ──────────────────────────────────────────────
+# Sensitive / PII data files
+# ──────────────────────────────────────────────
+data/complaints.csv
+data/custom_100_complaints.csv
+data/weather.csv
+
+# ──────────────────────────────────────────────
+# Large generated / synthetic data
+# ──────────────────────────────────────────────
+data/synthetic_complaints_2019_2022.csv
+data/synthetic_complaints.csv
+data/synthetic_aggregated.csv
+data/synthetic_features.npy
+
+# ──────────────────────────────────────────────
+# Trained model weights (large binary files)
+# ──────────────────────────────────────────────
+models/
+*.pt
+*.pth
+*.ckpt
+
+# ──────────────────────────────────────────────
+# Pipeline cache (large binary)
+# ──────────────────────────────────────────────
+cache/
+*.pkl
+
+# ──────────────────────────────────────────────
+# IDE / OS
+# ──────────────────────────────────────────────
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+
+# ──────────────────────────────────────────────
+# Jupyter
+# ──────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ──────────────────────────────────────────────
+# Logs
+# ──────────────────────────────────────────────
+*.log
+archive/test_output.log
+
+

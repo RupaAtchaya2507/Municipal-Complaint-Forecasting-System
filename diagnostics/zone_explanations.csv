@@ -1,0 +1,4 @@
+Zone_ID,Actual_MSI,Predicted_MSI,Count_scaled,Unresolved_scaled,Neighbor_Pressure_scaled,days_since_last_complaint
+3,-0.05,0.0674,1.0,1.0,0.1429,0.0
+17,0.15,0.0664,0.0,0.0,0.2857,0.0029
+19,0.15,-0.0253,0.0,0.0,0.2857,0.0019
